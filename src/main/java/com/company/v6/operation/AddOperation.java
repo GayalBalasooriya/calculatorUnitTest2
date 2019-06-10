@@ -15,7 +15,7 @@ public class AddOperation implements Operation {
     @Override
     public double perform() {
 
-        return a - b;
+        return a + b;
 
     }
 }
